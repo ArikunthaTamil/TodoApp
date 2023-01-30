@@ -18,3 +18,5 @@ IDE: InterlliJ IDEA
 JDK: 1.8
 
 Maven: 3.8.7
+
+Chrome: 109.0.5414.119
